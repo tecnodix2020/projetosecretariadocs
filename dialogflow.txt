@@ -1,0 +1,14 @@
+Referências:
+
+Git: https://github.com/innFactory/react-native-dialogflow
+Youtube: https://www.youtube.com/watch?v=0NXqwT3Y09E
+Youtube: https://www.youtube.com/watch?v=deTNNfqchfQ
+Youtube: https://www.youtube.com/watch?v=VTnFDc3IFag
+Google: https://dialogflow.cloud.google.com/#/getStarted
+Git: https://github.com/FaridSafi/react-native-gifted-chat
+
+
+npm install react-native-gifted-chat --save
+npm install --save react-native-dialogflow react-native-voice
+react-native link react-native-dialogflow
+react-native link react-native-voice
